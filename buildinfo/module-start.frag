@@ -7,6 +7,6 @@
     define(["Mortar", "ko"], factory);
   } else {
     // Do browser support
-    root.Mortar.koModel = factory(root.Mortar, root.ko);
+    factory(root.Mortar, root.ko);
   }
 }(this, function(Mortar, ko) {
