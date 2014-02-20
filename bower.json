@@ -25,7 +25,6 @@
     "tests",
     "buildinfo",
     "src",
-    "Gruntfile.js",
-    "package.json"
+    "Gruntfile.js"
   ]
 }
