@@ -20,7 +20,6 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "dist",
     "node_modules",
     "bower_components",
     "tests",
