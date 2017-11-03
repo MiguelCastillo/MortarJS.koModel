@@ -222,6 +222,6 @@ var Binder = (function() {
 })();
 
   Mortar.koFactory = koFactory;
-  Mortar.koModel   = Mortar.model.extend(Binder);
+  Mortar.koModel   = Mortar.Model.extend(Binder);
   return Mortar.koModel;
 }));
